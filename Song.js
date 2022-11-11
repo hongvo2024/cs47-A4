@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   trackInfo: {
     flexDirection: 'row',
   },
-
+  
   titleAndArtist: {
     flexDirection: "column",
     //margin: 10,
